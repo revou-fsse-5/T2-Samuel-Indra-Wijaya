@@ -11,7 +11,7 @@ Revou Student. :man_technologist:
 
 :heart: Gaming | :black_heart: Music | :blue_heart: Programming
 
-- :earth_indonesians: I'm from kudus - indonesia
+- :earth: I'm from kudus - indonesia
 - :video_game: I like to play video games
 - :gem: I love to customize everything lol
 
