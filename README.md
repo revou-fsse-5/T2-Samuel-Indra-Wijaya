@@ -1,4 +1,4 @@
-<img align="right" width="200" height="200" src="https://revou-fsse-5.github.io/module-1-samuelindraw/images.jpg">
+<img align="right" width="400" height="400" src="images.jpg">
 
 
 # Hi, I'm Samuel :cat:
