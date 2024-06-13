@@ -76,7 +76,7 @@ html{
     box-sizing:border-box;
 }
 
-.home-content{
+.head{
     max-width: 800px;
 }
 
@@ -86,16 +86,16 @@ body{
   margin:100px auto;
   padding:100px;
 }
-.home-content h3{
+.head h3{
     font-size: 43px;
 }
 
-.home-content h1{
+.head h1{
     font-size: 62px;
     line-height: 1.2;
 }
 
-.home-content p{
+.head p{
     font-size: 18px;
     margin: 25px 0 30px;
 }
