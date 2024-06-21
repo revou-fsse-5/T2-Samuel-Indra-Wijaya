@@ -5,10 +5,10 @@
   --primary-color-dark: #55d7f7;
   --primary-color-coral: lightcoral;
   --secondary-color: #25d3ff;
-  --third-color: #00ccff;
+  --third-color: #ecf8ff;
   --text-dark: #1f2937;
   --text-light: #6b7280;
-  --extra-light: #eef9ff;
+  --extra-light: #f0f9ff;
   --max-width: 1200px;
 }
 
@@ -164,6 +164,13 @@ ul li a:hover {
   margin-bottom: 2rem;
 }
 
+.textbox {
+  line-height: 1.5rem;
+  color: var(--text-light);
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
 .portfolio {
   color: var(--primary-color);
 }
@@ -220,8 +227,8 @@ ul li a:hover {
 }
 
 .containerboxes .box-container .box{
-  box-shadow: 0 5px 10px rgba(0,0,0,.2);
-  border-radius: 5px;
+  box-shadow: 0 5px 10px var(--primary-color);
+  border-radius: 2px;
   background: #fff;
   text-align: center;
   padding:30px 20px;
@@ -246,7 +253,7 @@ ul li a:hover {
 .containerboxes .box-container .box .btn{
   margin-top: 10px;
   display: inline-block;
-  background:#333;
+  background:var(--secondary-color);
   color:#fff;
   font-size: 17px;
   border-radius: 5px;
@@ -280,6 +287,13 @@ ul li a:hover {
   padding:20px;
 }
 
+.section__about {
+  padding-top:100px;
+}
+
+.section__contact {
+  padding-top:100px;
+}
 label{
   display:block;
   margin:1em 0 .2em;
@@ -290,7 +304,7 @@ select, textarea{
   width:100%;
   padding:.3em;
   font-size:20px;
-  background-color:#fbfbfb;
+  background-color:var(--third-color);
   border:solid 1px #CCC;
   resize:flex;
 }
@@ -321,7 +335,7 @@ select{
 }
 option{
   color:black;
-  background: lavenderBlush;
+  background: rgba(192, 233, 252, 0.3);
 }
 
 
