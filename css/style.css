@@ -289,14 +289,20 @@ ul li a:hover {
   padding:20px;
 }
 
-.masukan
+.btn-masuk
 {
-  background-color:var(--primary-color);
+  background-color:var(--secondary-color);
   margin:1em 0 0;
-  color:black;
+  color:white;
   border:none;
   border-radius:8px;
   transition:all .3s ease-out;
+  display:block;
+  width:100%;
+  padding:.3em;
+  font-size:20px;
+  border:solid 1px #CCC;
+  resize:flex;
 }
 
 
