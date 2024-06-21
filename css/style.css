@@ -120,12 +120,14 @@ ul li a:hover {
   max-width: var(--max-width);
   margin: auto;
   padding-bottom: 100px;
+  padding-top:100px;
 }
 
 .section__contact{
   min-height: 100vh;
   max-width: var(--max-width);
   margin: auto;
+  padding-top:100px;
 }
 .content {
   display: flex;
@@ -227,7 +229,7 @@ ul li a:hover {
 }
 
 .containerboxes .box-container .box{
-  box-shadow: 0 5px 10px var(--primary-color);
+  box-shadow: 0 5px 10px var(--third-color);
   border-radius: 2px;
   background: #fff;
   text-align: center;
@@ -287,13 +289,7 @@ ul li a:hover {
   padding:20px;
 }
 
-.section__about {
-  padding-top:100px;
-}
 
-.section__contact {
-  padding-top:100px;
-}
 label{
   display:block;
   margin:1em 0 .2em;
